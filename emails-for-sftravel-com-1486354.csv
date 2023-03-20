@@ -1,0 +1,107 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+karen@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,1,{first},Karen,Dunn,Management,Senior Manager,"","",+1 415 974 6900
+aaron@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,0,{first},Aaron,Danzig,Writing & communication,Manager Digital Social Media Marketing,"","",+1 415 974 6900
+kelly@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,3,{first},Kelly,Blecke,Management,Convention Services,"","",+1 415 974 6900
+nicole@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,4,{first},Nicole,Rogers,Executive,Executive Vice President Chief Sales Officer,onlyinsf,"",+1 415 227 2614
+joe@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,1,{first},Joe,Dalessandro,Executive,CEO,"","",""
+hubertus@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,5,{first},Hubertus,Funke,Executive,Executive Vice President Global,onlyinsf,"",""
+howard@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,0,{first},Howard,Pickett,Executive,Executive Vice President Chief Marketing Officer,onlyinsf,"",""
+kenley@sftravel.com,sftravel.com,San Francisco Travel,,,,,,99,personal,4,{first},Moy,Kenley,Sales,Vice President National Sales,"","",+1 415 974 6900
+lori@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,9,{first},Lori,Lincoln,Executive,Vice President,onlyinsf,"",+1 415 227 2603
+janice@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,1,{first},Janice,Lee,Finance,Director Accounting Services,"","",""
+matt@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,1,{first},Matt,Zhao,Sales,Sales Manager,onlyinsf,"",""
+cassandra@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,6,{first},Cassandra,Costello,Executive,Executive Vice President Public,onlyinsf,"",""
+rick@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,1,{first},Rick,Hud,Management,Senior Manager,onlyinsf,"",+1 630 541 5388
+beth@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,2,{first},Beth,Melanson,Management,Senior Manager,onlyinsf,"",+1 415 227 2810
+leonie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,98,personal,2,{first},Leonie,Patrick,Management,Senior Director,onlyinsf,"",+1 202 803 5460
+hfunke@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,1,{first},Hubertus,Funke,Management,Director,"","",""
+rosa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,3,{first},Rosa,Luke,Management,Senior Director,onlyinsf,"",+1 415 227 2643
+dan@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,2,{first},Dan,Rosenbaum,Management,Director Digital Content,onlyinsf,"",+1 415 974 6900
+rory@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,5,{first},Rory,Davis,Management,Senior Manager,onlyinsf,"",+1 415 974 6900
+charles@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,1,{first},Charles,Rubinoff,Arts & design,Director Design,onlyinsf,"",""
+paul@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,8,{first},Paul,Tormey,Management,Regional Vice President General Manager,onlyinsf,"",""
+scott@sftravel.com,sftravel.com,San Francisco Travel,,,,,,97,personal,6,{first},Scott,Streeter,Executive,Vice President,onlyinsf,"",+1 415 974 6900
+maddy@sftravel.com,sftravel.com,San Francisco Travel,,,,,,96,personal,6,{first},,,,,,,
+tina@sftravel.com,sftravel.com,San Francisco Travel,,,,,,96,personal,3,{first},,,,,,,
+convention-services@sftravel.com,sftravel.com,San Francisco Travel,,,,,,96,generic,4,{first},,,Support,,,,
+administration@sftravel.com,sftravel.com,San Francisco Travel,,,,,,96,generic,4,{first},,,Management,,,,
+lynnb@sftravel.com,sftravel.com,San Francisco Travel,,,,,,95,personal,3,{first},,,,,,,
+teresa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,95,personal,2,{first},,,,,,,
+convention-sales@sftravel.com,sftravel.com,San Francisco Travel,,,,,,95,generic,15,{first},,,Sales,,,,
+jerome@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,1,{first},Jerome,Filip,Management,Senior Associate,onlyinsf,"",+1 415 227 2615
+stephanie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,1,{first},Stephanie,Swackhamer,Sales,Sales Team,onlyinsf,"",+1 415 974 6900
+tylerc@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,1,{first},Tyler,Cohn,Management,Senior Manager,onlyinsf,"",+1 415 974 6900
+daniel@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,2,{first},Daniel,Schwartz,Management,Senior Manager,onlyinsf,"",""
+julie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,1,{first},Julie,Vant,Management,Senior Manager,onlyinsf,"",""
+elisabeth@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,3,{first},Elisabeth,Francisco,Writing & communication,Director Media,"","",""
+winnie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,94,personal,3,{first},Winnie,Wong,Management,Senior Manager,onlyinsf,"",+1 415 227 2696
+kelsey@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,2,{first},Kelsey,Tinker,Management,Director Member Services,onlyinsf,"",""
+zeke@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,2,{first},Zeke,Ramsell,Sales,Convention Services,onlyinsf,"",+1 415 227 2812
+arturo@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,1,{first},Arturo,Araujo,Finance,Associate Accounting Services,onlyinsf,"",""
+emily@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,1,{first},Emily,Sandel,Arts & design,Director Design,onlyinsf,"",""
+fred@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,1,{first},Fred,Malinis,,"","","",+1 415 974 6900
+susanna@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,4,{first},Susanna,Flores,Management,Senior Manager,onlyinsf,"",+1 917 743 7833
+kimberly@sftravel.com,sftravel.com,San Francisco Travel,,,,,,93,personal,2,{first},Kimberly,Lee,Management,Senior Manager,onlyinsf,"",+1 415 227 2657
+terry@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Terry,Nguy,Finance,Manager Finance,"","",+1 415 974 6900
+brett@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Brett,Allor,Management,Senior Director,onlyinsf,"",+1 415 974 6900
+carmina@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Carmina,Ramos,Operations & logistics,Assistant Programs Manager,onlyinsf,"",""
+antonette@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Antonette,Eckert,Support,Manager Visitor Experience,onlyinsf,"",+1 415 974 6900
+jenny@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Jenny,Thi,Management,Manager Convention Services,onlyinsf,"",+1 415 227 2620
+jason@sftravel.com,sftravel.com,San Francisco Travel,,,,,,92,personal,1,{first},Jason,Wolterstorff,Management,Senior Manager,onlyinsf,"",+1 415 227 2817
+gabriella@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,1,{first},Gabriella,Giuliani,Management,Management Program,onlyinsf,"",+1 415 974 6900
+alexis@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,2,{first},Alexis,Piligian,,"",onlyinsf,"",""
+samantha@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,1,{first},Samantha,Yee,Sales,Sales Department,onlyinsf,"",""
+katie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,1,{first},Katie,Harper,IT / Engineering,Data Analytics,onlyinsf,"",+1 415 974 6900
+robert@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,1,{first},Robert,Skelton,Management,Senior Manager Partner Services,onlyinsf,"",""
+laurie@sftravel.com,sftravel.com,San Francisco Travel,,,,,,91,personal,4,{first},Laurie,Armstrong,Writing & communication,Media Contact,onlyinsf,"",+1 415 227 2615
+christy@sftravel.com,sftravel.com,San Francisco Travel,,,,,,90,personal,3,{first},,,,,,,
+vvic1@sftravel.com,sftravel.com,San Francisco Travel,,,,,,90,personal,30,{first},,,,,,,
+karenb@sftravel.com,sftravel.com,San Francisco Travel,,,,,,90,personal,1,{first},,,,,,,
+melissa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,90,personal,7,{first},,,,,,,
+vic1@sftravel.com,sftravel.com,San Francisco Travel,,,,,,90,personal,11,{first},,,,,,,
+charlesr@sftravel.com,sftravel.com,San Francisco Travel,,,,,,89,personal,2,{first},Charles,Rubinoff,Arts & design,Director Design,onlyinsf,"",+1 415 974 6900
+linda@sftravel.com,sftravel.com,San Francisco Travel,,,,,,87,personal,1,{first},,,,,,,
+oscar@sftravel.com,sftravel.com,San Francisco Travel,,,,,,86,personal,2,{first},,,,,,,
+media-relations@sftravel.com,sftravel.com,San Francisco Travel,,,,,,85,generic,8,{first},,,Writing & communication,,,,
+louis@sftravel.com,sftravel.com,San Francisco Travel,,,,,,84,personal,0,{first},Louis,Raphael,Management,Director Web Services,"","",+1 415 974 6900
+jessical@sftravel.com,sftravel.com,San Francisco Travel,,,,,,84,personal,0,{first},Jessica,Lum,Writing & communication,Director Public,onlyinsf,"",""
+karenl@sftravel.com,sftravel.com,San Francisco Travel,,,,,,83,personal,0,{first},Karen,Lau,Management,Senior Manager,onlyinsf,"",+1 415 974 6900
+lila@sftravel.com,sftravel.com,San Francisco Travel,,,,,,82,personal,0,{first},,,,,,,
+donnad@sftravel.com,sftravel.com,San Francisco Travel,,,,,,82,personal,1,{first},,,,"",,,
+kate@sftravel.com,sftravel.com,San Francisco Travel,,,,,,81,personal,1,{first},,,,,,,
+sarahr@sftravel.com,sftravel.com,San Francisco Travel,,,,,,81,personal,1,{first},,,,,,,
+alessa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,80,personal,1,{first},,,,,,,
+erin@sftravel.com,sftravel.com,San Francisco Travel,,,,,,80,personal,1,{first},,,,,,,
+memberportal@sftravel.com,sftravel.com,San Francisco Travel,,,,,,79,generic,2,{first},,,,,,,
+travel-trade@sftravel.com,sftravel.com,San Francisco Travel,,,,,,79,generic,4,{first},,,,,,,
+feedback@sftravel.com,sftravel.com,San Francisco Travel,,,,,,78,generic,4,{first},,,Support,,,,
+pfrentsos@sftravel.com,sftravel.com,San Francisco Travel,,,,,,78,personal,2,{first},,,,,,,
+culture@sftravel.com,sftravel.com,San Francisco Travel,,,,,,77,generic,1,{first},,,,,,,
+partnership@sftravel.com,sftravel.com,San Francisco Travel,,,,,,77,generic,5,{first},,,,,,,
+president@sftravel.com,sftravel.com,San Francisco Travel,,,,,,76,generic,3,{first},,,Executive,,,,
+tourismsales@sftravel.com,sftravel.com,San Francisco Travel,,,,,,75,generic,2,{first},,,Sales,,,,
+tatiana@sftravel.com,sftravel.com,San Francisco Travel,,,,,,74,personal,0,{first},Tatiana,Ranis,Management,Senior Director,onlyinsf,"",+1 415 227 2607
+anastasia@sftravel.com,sftravel.com,San Francisco Travel,,,,,,73,personal,0,{first},Anastasia,Straley,Marketing,Manager Social Media Marketing,onlyinsf,"",+1 415 974 6900
+ayrn@sftravel.com,sftravel.com,San Francisco Travel,,,,,,70,personal,0,{first},,,,,,,
+brendat@sftravel.com,sftravel.com,San Francisco Travel,,,,,,67,personal,0,{first},Brenda,Tucker,Marketing,Marketing Communications,onlyinsf,"",+1 415 974 6900
+lisac@sftravel.com,sftravel.com,San Francisco Travel,,,,,,63,personal,0,{first},,,,"",,,
+brittney@sftravel.com,sftravel.com,San Francisco Travel,,,,,,17,personal,0,{first},Brittney,Burt,Management,Associate Lead,onlyinsf,"",""
+nicolet@sftravel.com,sftravel.com,San Francisco Travel,,,,,,14,personal,0,{first},,,,,,,
+patricia@sftravel.com,sftravel.com,San Francisco Travel,,,,,,14,personal,0,{first},,,,,,,
+volunteer@sftravel.com,sftravel.com,San Francisco Travel,,,,,,14,generic,0,{first},,,,,,,
+elitsa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,13,personal,0,{first},,,,,,,
+partnerships@sftravel.com,sftravel.com,San Francisco Travel,,,,,,13,generic,0,{first},,,,,,,
+cindy@sftravel.com,sftravel.com,San Francisco Travel,,,,,,12,personal,0,{first},,,,,,,
+lysa@sftravel.com,sftravel.com,San Francisco Travel,,,,,,12,personal,0,{first},,,,"",,,
+staff_toursim@sftravel.com,sftravel.com,San Francisco Travel,,,,,,11,generic,0,{first},,,,,,,
+jane@sftravel.com,sftravel.com,San Francisco Travel,,,,,,11,personal,0,{first},,,,,,,
+vincent@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+allison@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+immanuel@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+anjanette@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+goldenoffers@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+sfmeetings@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,generic,0,{first},,,,,,,
+mysf@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+ewtoelly@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,,,,
+escape@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,generic,0,{first},,,,,,,
+tanjeet@sftravel.com,sftravel.com,San Francisco Travel,,,,,,10,personal,0,{first},,,,"",,,
