@@ -1,0 +1,12 @@
+Email address,Domain name,Organization,Country,State,City,Postal code,Street,Confidence score,Type,Number of sources,Pattern,First name,Last name,Department,Position,Twitter handle,LinkedIn URL,Phone number
+info@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,99,generic,5,{last},,,Support,,,,
+media@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,98,generic,5,{last},,,Writing & communication,,,,
+org@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,79,generic,1,{last},,,,,,,
+jobs@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,79,generic,1,{last},,,HR,,,,
+meet@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,78,generic,1,{last},,,,,,,
+photos@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,77,generic,1,{last},,,,,,,
+photo@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,76,generic,2,{last},,,,,,,
+services@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,76,generic,1,{last},,,Support,,,,
+partner@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,76,generic,2,{last},,,,,,,
+web@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,76,generic,2,{last},,,,,,,
+trade@visitalbuquerque.org,visitalbuquerque.org,Visit Albuquerque,US,NM,Mexico,87102,20 First Plaza,75,generic,1,{last},,,,,,,
